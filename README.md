@@ -1,7 +1,7 @@
 <h1 align="center">MaxTube (ex YTPlusM)</h1>
 <p align="center">
   <img src="Resources/YTPlusM.png" width="435"><br>
-  The best fork of <a href="https://github.com/dayanch96/YTLite">YTPlus</a>, the incredible enhancer for the YouTube app on iOS. Features over 100 customizable options, updated to the latest version without any subscription, and packed with even more tweaks than the original.
+  The best fork of <a href="https://github.com/dayanch96/YTLite">YTPlus</a>, the incredible enhancer for the YouTube app on iOS. Features over 100 customizable options, updated to the latest version without any subscription, packed with even more tweaks than the original and with extra tweaks created or forked by me.
 </p>
 
 <h3 align="center">
@@ -17,27 +17,24 @@
 </h3>
 
 <p align="center">
-   Fork this repo to build yourself YTPlus and MaxTube IPAs (with <a href="https://github.com/dayanch96/YTLite">YTPlus/YTLite.</a> from 5.1 to 5.2.2, no 5.2) without DRM Patreon subscription or <a href="https://t.me/Mark02workshop_official">join my telegram channel</a> for updates, communications and pre-built releases.
+   Fork this repo to build yourself YTPlus and MaxTube IPAs (with <a href="https://github.com/dayanch96/YTLite">YTPlus/YTLite</a>. from 5.1 to 5.2.2, no 5.2) without DRM subscription/paywall or <a href="https://t.me/Mark02workshop_official">join my telegram channel</a> for updates, communications and pre-compiled releases.
 </p>
 
 <p align="center">
    <strong>Don't know how to build YTPlus or MaxTube?</strong> Read <a href="#how-to-build-youtube-plus-and-maxtube-app-using-github-actions">How to build YouTube Plus and MaxTube app using GitHub Actions</a>.
-   </a>
 </p>
 
 <p align="center">
-   <strong>Want more info about my MaxTube?</strong> Read <a href="#what-means-maxtube-and-ytplusm-diy">What Means MaxTube and YTPlusM DIY.
-   </a>
+   <strong>Want more info about my MaxTube?</strong> Read <a href="#what-means-maxtube-and-ytplusm-diy">What Means MaxTube and YTPlusM DIY</a>.
 </p>
 
 <h1 align="center">Must read</h1>
 
-**1. From June 1 2026 you do not need anymore [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY), but simply fork this repository (main branch). [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY) will not be updated anymore**
+**1. I removed download table and all releases' files due to legal reasons;**
+### FOR PRECOMPILED RELEASES AND ANNOUNCEMENTS JOIN MY TELEGRAM CHANNEL 👉[LINK TO JOIN](https://t.me/Mark02workshop_official)👈 (If t.me links do not work, search for this on Telegram: `@Mark02workshop_official`)
 
-**2. I removed download table and all releases' files due to legal reason;**
-### BUT I CREATED A NEW TELEGRAM CHANNEL FOR RELEASES! 👉[LINK TO JOIN](https://t.me/Mark02workshop_official)👈 (If t.me links do not work, search for this on Telegram: `@Mark02workshop_official`)
-
-**3. I also created a new tweak to fix playback issues! You can find it in my new releases in the Telegram channel, in GitHub Actions and [in the official repository](https://github.com/Mark02-2012/YTPlaybackFix)**
+**2. I also created a tweak to fix playback issues! You can find it in the GitHub Actions and [in the official repository](https://github.com/Mark02-2012/YTPlaybackFix)
+Note: my tweak to fix playback issues will not be anymore in my precompiled IPAs, as YTPlus now has its own fix, will use and recommend using mine only with older YTPlus versions than 6.0b1**
 
 ## Table of Contents
 - [Screenshots of YouTube Plus](#screenshots-of-youtube-plus)
@@ -106,7 +103,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 > [!NOTE]
 > If this your first time, complete following steps before starting:
 >
-> 1. [Fork this repository](https://github.com/Mark02-2012/YTPlusM/fork) using this link or the fork button on the top right (If you already have YTLite or similar fork that prevents you from forking my MaxTube, you should delete that fork to be able to fork my repository).
+> 1. [Fork this repository](https://github.com/Mark02-2012/MaxTube/fork) using this link or the fork button on the top right (If you already have YTLite or similar fork that prevents you from forking my MaxTube, you should delete that fork to be able to fork my repository).
 > 2. On your forked MaxTube (ex YTPlusM) repository, go to **Repository Settings** > **Actions**, enable **Read and Write** permissions.
 > 3. Then go to the **Actions** tab (if you can't find it, you can just add /actions to the url) and click on the green button **I understand my workflows, go ahead and enable them**.
 
@@ -180,7 +177,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 ## What Means MaxTube and YTPlusM DIY
 <details>
  <summary><strong>MaxTube</strong></summary>
-<p><strong>MaxTube</strong> is my fork of <a href="https://github.com/dayanch96/YTLite">YTPlus/YTLite</a> that has <strong>eleven more tweaks integrated</strong> (<a href="https://github.com/fosterbarnes/YTweaks">YTweaks</a>, <a href="https://github.com/castdrian/Gonerino">Gonerino</a>, <a href="https://github.com/PoomSmart/YouSpeed">YouSpeed</a>, <a href="https://github.com/arichornlover/YTLowContrastMode">YTLowContrastMode</a>, <a href="https://github.com/VasirakCalgux/VolumeBoostYT">VolumeBoostYT</a>, <a href="https://github.com/PoomSmart/YouGetCaption">YouGetCaption</a>, my tweak <a href="https://github.com/Mark02-2012/YTPlaybackFix">YTPlaybackFix</a>, <a href="https://github.com/PoomSmart/YouChooseQuality">YouChooseQuality</a>, <a href="https://github.com/Tonwalter888/YouShare">YouShare</a>, <a href="https://github.com/bhackel/YouLoop">YouLoop</a> and <a href="https://github.com/PoomSmart/YouMute">YouMute</a>) + YTPlus/YTLite without subscription required. <strong>YTPlus releases will not have those extra tweaks, but only YTPlus/YTLite YouPiP, YTUHD, Return-YouTube-Dislikes, YouQuality, DontEatMyContent and YTABConfig.</strong>
+<p><strong>MaxTube</strong> is my fork of <a href="https://github.com/dayanch96/YTLite">YTPlus/YTLite</a> that has <strong>twelve more tweaks integrated</strong> (<a href="https://github.com/fosterbarnes/YTweaks">YTweaks</a>, <a href="https://github.com/castdrian/Gonerino">Gonerino</a>, <a href="https://github.com/PoomSmart/YouSpeed">YouSpeed</a>, <a href="https://github.com/arichornlover/YTLowContrastMode">YTLowContrastMode</a>, <a href="https://github.com/VasirakCalgux/VolumeBoostYT">VolumeBoostYT</a>, <a href="https://github.com/PoomSmart/YouGetCaption">YouGetCaption</a>, my tweak <a href="https://github.com/Mark02-2012/YTPlaybackFix">YTPlaybackFix</a>, <a href="https://github.com/PoomSmart/YouChooseQuality">YouChooseQuality</a>, <a href="https://github.com/Tonwalter888/YouShare">YouShare</a>, <a href="https://github.com/bhackel/YouLoop">YouLoop</a> and <a href="https://github.com/PoomSmart/YouMute">YouMute</a>) + YTPlus/YTLite without subscription required. <strong>YTPlus releases will not have those extra tweaks, but only YTPlus/YTLite YouPiP, YTUHD, Return-YouTube-Dislikes, YouQuality, DontEatMyContent and YTABConfig.</strong>
 
 <strong>But why the old name was "YTPlusM"?</strong>
 Well, the original project is named <a href="https://github.com/dayanch96/YTLite">YTPlus</a>, so since my fork provides more advantages, I wanted to add an "M" to indicate that it's YTPlus, but improved by me, Mark02.
@@ -245,14 +242,6 @@ Returned to the original VolumeBoostYT tweak because the fork used in MaxTube 1.
 
 ## Supported YouTube Version
 <ul>
-   <li><strong>Latest confirmed:</strong> <em>21.13.6</em></li>
-   <li><strong>Date tested:</strong> <em>Apr 1, 2026</em></li>
-   <li><strong>YouTube Plus:</strong> <em>5.2 beta 4</em></li>
-</ul>  
-
-<strong>⚠️YTPlus 5.2b4 doesn't work with the latest versions of yt (from 21.14.4 and above), so use YTPlus 5.2.1 or above to build YTPlusM with newest yt versions⚠️</strong>
-
-<ul>
    <li><strong>Latest confirmed:</strong> <em>21.33.6</em></li>
    <li><strong>Recommended for working downloads:</strong> <em>21.24.3</em></li>
    <li><strong>Date tested:</strong> <em>August 24, 2026</em></li>
@@ -264,6 +253,7 @@ Returned to the original VolumeBoostYT tweak because the fork used in MaxTube 1.
    <li><strong>Latest confirmed:</strong> <em>20.21.6</em></li>
    <li><strong>Date tested:</strong> <em>July 24, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2.2</em></li>
+</ul>
 
 ## Tweak Integration Details
 <details>
@@ -316,7 +306,7 @@ Returned to the original VolumeBoostYT tweak because the fork used in MaxTube 1.
 </details>
 
 <details>
- <summary>Gonerino (only in MaxTube versions)</summary>
+ <summary>Gonerino (only in MaxTube versions, not anymore in my precompiled IPAs)</summary>
  <p>Gonerino is a tweak developed by <a href="https://github.com/castdrian">castdrian</a>, a tweak to block specific videos, channels and words for the iOS YouTube app.</p>
  <p><strong>Gonerino preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
  <p>Source code and additional information are available <a href="https://github.com/castdrian/Gonerino">in castdrian's repository</a>.</p>
@@ -332,12 +322,12 @@ Returned to the original VolumeBoostYT tweak because the fork used in MaxTube 1.
 <details>
  <summary>YTLowContrastMode (only in MaxTube versions)</summary>
  <p>YTLowContrastMode is a tweak developed by <a href="https://github.com/arichornlover">arichornlover</a>, a Tweak to make YT and YTMusic apps' Interface Low Contrast as possible and Easy on the eyes. (In the IPAs will be used my fork of it)</p>
- <p>YTLowContrastMode preferences are available in the <strong>YouTube settings</strong>.</p>
+ <p><strong>YTLowContrastMode preferences</strong> are available in the <strong>YouTube settings</strong> under <strong>MaxTube Extras section</strong>.</p>
  <p>Source code and additional information are available <a href="https://github.com/Mark02-2012/YTLowContrastMode">in mine repository</a>.</p>
 </details>
 
 <details>
- <summary>VolumeBoostYT (only in MaxTube versions)</summary>
+ <summary>VolumeBoostYT (only in MaxTube versions, not in my iOS 15+ precompiled IPAs)</summary>
  <p>VolumeBoostYT is a tweak developed by <a href="https://github.com/VasirakCalgux">VasirakCalgux</a> that provides an independent, gesture-based volume control for the YouTube app, completely separate from the system volume.</p>
  <p><strong>VolumeBoostYT preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
  <p>Source code and additional information are available <a href="https://github.com/VasirakCalgux/VolumeBoostYT">in VasirakCalgux's repository</a>.</p>
@@ -351,9 +341,9 @@ Returned to the original VolumeBoostYT tweak because the fork used in MaxTube 1.
 </details>
 
 <details>
- <summary>YTPlaybackFix (only in MaxTube versions)</summary>
+ <summary>YTPlaybackFix (only in MaxTube versions, not anymore in my precompiled IPAs)</summary>
  <p>YTPlaybackFix is a tweak developed by me that try to fix playback issues by using my method (refreshing the video every time the error 14 and 0 appears "something went wrong") and YouFixPlaybackIssues by @AppropriateNet2928</p>
- <p><strong>YTPlaybackFix preferences</strong> are available in the <strong>YouTube settings</strong></p>
+ <p><strong>YTPlaybackFix preferences</strong> are available in the <strong>YouTube settings</strong> under <strong>MaxTube Extras section.</strong></p>
  <p>Source code and additional information are available <a href="https://github.com/Mark02-2012/YTPlaybackFix">in my repository</a>.</p>
 </details>
 
@@ -365,7 +355,7 @@ Returned to the original VolumeBoostYT tweak because the fork used in MaxTube 1.
 </details>
 
 <details>
- <summary><strong>YouShare (only in MaxTube versions)</summary>
+ <summary>YouShare (only in MaxTube versions)</summary>
  <p>YouShare is a tweak developed by <a href="https://github.com/PoomSmart">PoomSmart</a> (but I'm using <a href="https://github.com/Tonwalter888/YouShare">this fork</a> by <a href="https://github.com/Tonwalter888">TonWalter888</a>) that allows you to share videos faster in iOS YouTube app.</p>
  <p><strong>YouShare preferences</strong> are available in the <strong>Video Overlay</strong> section under <strong>YouTube settings</strong>.</p>
  <p>Source code and additional information are available <a href="https://github.com/Tonwalter888/YouShare">in Tonwalter888's repository</a>.</p>
@@ -385,6 +375,13 @@ Returned to the original VolumeBoostYT tweak because the fork used in MaxTube 1.
  <p>Source code and additional information are available <a href="https://github.com/PoomSmart/YouMute">in PoomSmart's repository</a>.</p>
 </details>
 
+<details>
+ <summary>YTLocalQueue (only in MaxTube versions)</summary>
+ <p>YTLocalQueue is a tweak initially developed by <a href="https://github.com/bpetrynski">bpetrynski</a>, but fixed by me and <a href="https://github.com/AppropriateNet2928">AppropriateNet2928</a> that adds 3 buttons to the video overlay to add the video to the queue, view the queue and go to the next video in the queue.</p>
+ <p><strong>YTLocalQueue preferences</strong> are available in the <strong>YouTube settings</strong> under <strong>MaxTube Extras section</strong>.</p>
+ <p>This tweak is closed source as I wanted to be a special feature for MaxTube, you can create the deb of it in the GitHub Actions in the "Generate deb files" workflow (soon).</p>
+</details>
+
 
 ## Special thanks
 This project is alive also thanks to those fantastic guys:
@@ -393,7 +390,7 @@ This project is alive also thanks to those fantastic guys:
 <a href="https://github.com/dayanch96">Dayanch96</a>: **creator of YTPlus/YTLite**
 
 
-<a href="https://www.reddit.com/u/shinewake/s/ZeFbBOkUAa">shinewake</a>: **patcher of YTPlus/YTLite (he removed Patreon DRM)**
+<a href="https://www.reddit.com/u/shinewake/s/ZeFbBOkUAa">shinewake</a> and <a href="https://github.com/itzzace">itzzace</a>: **patchers of YTPlus/YTLite (they removed the DRM/paywall)**
 
 
 <a href="https://github.com/fosterbarnes">fosterbarnes</a>: **creator of YTweaks**
@@ -414,4 +411,6 @@ This project is alive also thanks to those fantastic guys:
 <a href="https://github.com/bhackel">bhackel</a>: **creator of YouLoop**
 
 
-<a href="https://github.com/AppropriateNet2928">AppropriateNet2928</a>: **creator of YouFixPlaybackIssues, the other method used by my YTPlaybackFix**
+<a href="https://github.com/AppropriateNet2928">AppropriateNet2928</a>: **creator of YouFixPlaybackIssues, the other method used by my YTPlaybackFix and creator of part of the new fixed YTLocalQueue tweak**
+
+<a href="https://github.com/bpetrynski">bpetrynski</a>: **original creator of YTLocalQueue**
