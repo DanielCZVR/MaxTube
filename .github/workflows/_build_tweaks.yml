@@ -163,15 +163,15 @@ jobs:
           deb_url="https://github.com/Mark02-2012/MaxTube/releases/download/YTPlusVersions/com.dvntm.ytlite_${{ inputs.tweak_version }}_iphoneos-arm.deb"
           wget "$deb_url" --no-verbose -O ytplus.deb
 
-      - name: Download YTLocalQueue
+      - name: Download YTLocalQueue 1.0.0
         if: ${{ inputs.enable_ytlocalqueue }}
         run: |
-          wget "https://files.catbox.moe/sp01af.deb" --no-verbose -O ytlocalqueue.deb
+          wget "https://www.dropbox.com/scl/fi/71bdllk4de68yxtjca06l/com.mark02-2012.ytlocalqueue_1.0.0_iphoneos-arm64-1.deb?rlkey=wtr2t5d0y7hpvo3d3qlwgscv0&st=vbvfipio&dl=1" --no-verbose -O ytlocalqueue.deb
 
-      - name: Download MaxTube Extras section deb file
-        if: ${{ inputs.enable_ytlocalqueue || inputs.enable_YTLCM }}
+      - name: Download MaxTube Extras 1.2.0 section deb file
+        if: ${{ inputs.enable_ytlocalqueue || inputs.enable_YTLCM || inputs.enable_ytpfBETA || inputs.enable_ytpf }}
         run: |
-          wget "https://files.catbox.moe/1lg63q.deb" --no-verbose -O maxtubeextras.deb
+          wget "https://www.dropbox.com/scl/fi/ryi2oxxxdb0le89gl8ztw/com.mark02-2012.maxtubeextras_1.2.0_iphoneos-arm64.deb?rlkey=tnuvsnwoivb12067vtt657oxc&st=mo67ruxt&dl=1" --no-verbose -O maxtubeextras.deb
 
       - name: Download YouTube Plus (by URL)
         if: ${{ inputs.tweak_url != '' }}
