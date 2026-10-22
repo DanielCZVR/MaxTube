@@ -17,7 +17,7 @@
 </h3>
 
 <p align="center">
-   Fork this repo to build yourself YTPlus and MaxTube IPAs (with <a href="https://github.com/dayanch96/YTLite">YTPlus/YTLite</a>. from 5.1 to 5.2.2, no 5.2) without DRM subscription/paywall or <a href="https://t.me/Mark02workshop_official">join my telegram channel</a> for updates, communications and pre-compiled releases.
+   Fork this repo to build yourself YTPlus and MaxTube IPAs (with <a href="https://github.com/dayanch96/YTLite">YTPlus/YTLite</a>. from 5.1 to 6.0b2, no 5.2) without DRM subscription/paywall or <a href="https://t.me/Mark02workshop_official">join my telegram channel</a> for updates, communications and pre-compiled releases.
 </p>
 
 <p align="center">
